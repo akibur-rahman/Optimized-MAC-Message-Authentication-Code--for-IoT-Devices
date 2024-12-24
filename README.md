@@ -43,7 +43,7 @@ The goal is to identify an optimal balance between performance (execution time),
 
 
 ## Performance Evaluation
-(https://cdn.discordapp.com/attachments/1006128900121833492/1321125647631908945/optimized_mac.PNG?ex=676c19a3&is=676ac823&hm=3b7d3f097e96e2d6fa5ef232c2e2d435dc531ef5e97f1e5e230059b66ab45d43&)
+(https://i.ibb.co.com/1QR5SZx/optimized-mac.png)
 
 
 ## How the Optimized MAC Works
