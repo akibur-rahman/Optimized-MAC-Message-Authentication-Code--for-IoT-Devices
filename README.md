@@ -43,7 +43,7 @@ The goal is to identify an optimal balance between performance (execution time),
 
 
 ## Performance Evaluation
-(https://i.ibb.co.com/1QR5SZx/optimized-mac.png)
+(images/comparison.png)
 
 
 ## How the Optimized MAC Works
